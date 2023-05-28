@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\Lenovo\\Desktop\\SI_lab2_216020\\build\\classes\\java\\main;C:\\Users\\Lenovo\\Desktop\\SI_lab2_216020\\build\\resources\\main'
+-d 'C:\\Users\\Lenovo\\Desktop\\SI_lab2_216020\\build\\docs\\javadoc'
+-doctitle 'SI_lab2_216020 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'SI_lab2_216020 1.0-SNAPSHOT API'
+'C:\\Users\\Lenovo\\Desktop\\SI_lab2_216020\\src\\main\\java\\SILab2.java'
