@@ -11,8 +11,7 @@ Control Flow Graph
 Цикломатската комплексност е еднаква на бројот на предикати плус 1.
 Цикломатската комплексност изнесува 10+1=11.
 
-
-Test cases according to the Every Branch criteria
+Every Branch
 
 Test case 1 (testWithNullUser): This test case covers Branch 1 by passing a null user object.
 Test case 2 (testWithNullPassword): This test case covers Branch 2 by passing a user object with a null password.
