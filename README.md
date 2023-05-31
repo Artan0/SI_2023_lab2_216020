@@ -36,12 +36,12 @@ Test case 10 (testWithPasswordWithoutSpecialCharacter): This test case covers th
 
 Multiple Condition
 
-if (user == null  user.getPassword() == null  user.getEmail() == null)
+if (user == null || user.getPassword() == null || user.getEmail() == null)
 
-Test case 1: ako user == null  se ispolnuva uslovot
+Test case 1 user == null  se ispolnuva uslovot
 
-Test case 2: ako user != null, user.GetPassword() == null
+Test case 2 user != null, user.getPassword() == null
 
-Test case 3: ako user != null, user.GetPassword() != null и GetEmail() == null
+Test case 3 user != null, user.getPassword() != null и getEmail() == null
 
-Test case 4: ako user != null, user.GetPassword() != null и GetEmail() != null
+Test case 4 user != null, user.getPassword() != null и getEmail() != null
